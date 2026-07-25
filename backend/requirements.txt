@@ -18,7 +18,7 @@ sentence-transformers==5.6.1
 
 # Vector Database
 faiss-cpu==1.14.3
-pinecone-client==3.0.2
+#pinecone-client==3.0.2
 
 # Database
 sqlalchemy==2.0.23
