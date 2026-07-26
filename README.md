@@ -251,6 +251,11 @@ AI-Research-Knowledge-Assistant/
 
 After completing the installation and environment setup, start the FastAPI development server.
 
+Actiave source "cd backend"
+```
+source venv/bin/activate
+```
+
 ```bash
 python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
